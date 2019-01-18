@@ -1,9 +1,10 @@
 body {
-    font-family: "Liberation Mono", monospace;
+    background: lavender;
+    font-family: Consolas, monospace;
 }
 
 h1 {
-    font-family: "Liberation Mono", monospace;
+    font-family: Consolas, monospace;
     color: indigo;
 }
 
