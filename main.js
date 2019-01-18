@@ -17,7 +17,7 @@ function greet() {
     // display greeting
     var greeter = document.getElementById('greeter');
     greeter.textContent = greeting;
-    
+
 
     // remove prompt
 }
@@ -25,4 +25,3 @@ function greet() {
 // TODO: validate name inputs
 // TODO: clear inputs after greet?
 
-greet();
