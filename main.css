@@ -1,9 +1,9 @@
 body {
-    font-family: "Liberation Mono";
+    font-family: "Liberation Mono", monospace;
 }
 
 h1 {
-    font-family: "Liberation Mono";
+    font-family: "Liberation Mono", monospace;
     color: dodgerblue;
 }
 
