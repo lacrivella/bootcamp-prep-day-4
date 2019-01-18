@@ -1,0 +1,19 @@
+body {
+    font-family: "Liberation Mono";
+}
+
+h1 {
+    font-family: "Liberation Mono";
+    color: dodgerblue;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    color:white;
+    background: dodgerblue;
+    padding: 5px;
+}

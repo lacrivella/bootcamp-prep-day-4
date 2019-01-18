@@ -1,0 +1,15 @@
+camelCase
+JavaScript uses this case
+
+TitleCase
+PascalCase
+
+kebob-case
+fruit-meat-veggies
+File and Folder names uses this case
+
+snake_case
+Used in Sequel(?) and Python
+
+README
+Used for magic numbers/specific number or odd file names
